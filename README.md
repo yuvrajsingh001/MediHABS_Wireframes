@@ -1,7 +1,7 @@
 
 # MediHABS Wireframes
 
-Welcome to the mediHABS wireframe designs repository! This repository contains the wireframe designs for the project called mediHABS, which aims to create a user-friendly and intuitive healthcare management system. The wireframe designs have been created using Figma, a popular design and prototyping tool.
+Welcome to the mediHABS wireframe designs repository! This repository contains the wireframe designs for the project called mediHABS pursued by a team of 5 students during my first year at University, which aims to create a user-friendly and intuitive healthcare management system. The wireframe designs have been created using Figma, a popular design and prototyping tool.
 
 
 ## About MediHABS
